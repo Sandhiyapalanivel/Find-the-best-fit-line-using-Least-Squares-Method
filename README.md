@@ -49,7 +49,7 @@ print(y_predicted)
 plt.scatter(X,Y)
 plt.plot(X,y_predicted,color='red')
 plt.show()
-
+```
 ## Output:
 ## Slope and Y predicted:
 -1.125748502994012 13.97305389221557
